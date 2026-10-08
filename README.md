@@ -35,7 +35,7 @@ The idea is simple: learn how the motor behaves normally, create a controlled me
 │   ├── data_collection/       # LIS2DW12 + MAX9814 acquisition sketches
 │   └── reconstructed/         # Later corrected-flow reconstruction (clearly labeled)
 ├── raspberry/                 # Reconstructed Python/Flask/SQLite/MQTT side
-├── docs/                      # Architecture, status, explanation and interview guide
+├── docs/                      # Architecture, status
 ├── third_party/               # NanoEdge AI redistribution note
 └── CREDITS.md                 # Team attribution
 ```

@@ -111,12 +111,6 @@ Early project material and the recovered firmware use a **LIS2DW12** acceleromet
 
 For the exact status, see [`docs/provenance-and-status.md`](docs/provenance-and-status.md).
 
-## Understand the project in Italian
-
-Start here: [`docs/spiegazione-completa-it.md`](docs/spiegazione-completa-it.md).
-
-For interviews: [`docs/interview-guide-it.md`](docs/interview-guide-it.md).
-
 For GitHub upload: [`docs/github-upload-it.md`](docs/github-upload-it.md).
 
 ## Team project

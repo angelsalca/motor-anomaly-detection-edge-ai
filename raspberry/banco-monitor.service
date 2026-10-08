@@ -1,0 +1,16 @@
+[Unit]
+Description=Banco prova - MQTT monitor, SQLite database and email alerts
+After=network-online.target mosquitto.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=pi
+WorkingDirectory=/home/pi/banco
+EnvironmentFile=-/home/pi/banco/banco.env
+ExecStart=/usr/bin/python3 /home/pi/banco/monitor_mqtt_mail.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

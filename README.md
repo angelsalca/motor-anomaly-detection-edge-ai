@@ -2,7 +2,6 @@
 
 **ITS team project** combining embedded sensing, Edge AI, MQTT, Raspberry Pi, SQLite and a Flask dashboard to monitor a brushed DC motor and detect abnormal behaviour.
 
-> This is a curated portfolio repository. Recovered project artifacts and later reconstructions are explicitly separated so the repository does not overclaim authorship or completeness.
 
 ![Physical prototype](assets/prototype.jpg)
 
@@ -113,6 +112,3 @@ For the exact status, see [`docs/provenance-and-status.md`](docs/provenance-and-
 
 For GitHub upload: [`docs/github-upload-it.md`](docs/github-upload-it.md).
 
-## Team project
-
-See [`CREDITS.md`](CREDITS.md). This repository does not claim that every part was individually authored by one person.
